@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @BlackNetworkBit
-- 👀 I’m interested in security related stuff and web development
-- 🌱 I’m currently learning node.js
-- 💞️ I’m looking to collaborate on moodle and sudile
+👋 Hi, I’m @BlackNetworkBit
+
+👀 I’m interested in security related stuff and web development
+
+🌱 I’m currently learning node.js
+
+💞️ I’m looking to collaborate on moodle and sudile
 
 <!---
 BlackNetworkBit/BlackNetworkBit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
