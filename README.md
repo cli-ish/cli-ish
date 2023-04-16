@@ -10,3 +10,5 @@ Todo for 2023:
 - Develop a small Dapp for Cryptocurrencies
 - Invest more time in other PHP Frameworks (Laravel/Symfony)
 - Create some stuff with Go
+- 
+![Deezer Now Playing](https://incredible.software/test/badge?id=4136699722)
