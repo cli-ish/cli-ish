@@ -13,4 +13,4 @@
 
 *Last song played on Deezer:*
 
-![Deezer Now Playing](https://incredible.software/test/badge?id=4136699722)
+![Deezer Now Playing](https://incredible.software/test/badge/07371d90-f3ce-4352-b50a-93b55e3102e9)
