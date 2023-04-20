@@ -13,4 +13,4 @@
 
 *Last song played on Deezer:*
 
-![Deezer Now Playing](https://incredible.software/test/badge/07371d90-f3ce-4352-b50a-93b55e3102e9)
+[![Deezer Now Playing](https://incredible.software/test/badge/07371d90-f3ce-4352-b50a-93b55e3102e9)](https://github.com/cli-ish/deezer-badge)
