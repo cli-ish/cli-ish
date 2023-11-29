@@ -5,8 +5,10 @@
 *My CVE's:*
 - ⚡ CVE-2023-28329 ([More](https://moodle.org/mod/forum/discuss.php?d=445061))
 - ⚡ CVE-2023-28330 ([More](https://moodle.org/mod/forum/discuss.php?d=445062))
-- *fresh* ⚡ CVE-2023-5539  ([More](https://moodle.org/mod/forum/discuss.php?d=451580))
-- *fresh* ⚡ CVE-2023-5540  ([More](https://moodle.org/mod/forum/discuss.php?d=451581))
+- ⚡ CVE-2023-5539  ([More](https://moodle.org/mod/forum/discuss.php?d=451580))
+- ⚡ CVE-2023-5540  ([More](https://moodle.org/mod/forum/discuss.php?d=451581))
+- *fresh* ⚡ CVE-2023-XXXX  (TBA)
+- *fresh* ⚡ CVE-2023-XXXX  (TBA)
 
 *Todo for 2023:*
 - Develop a small Dapp for Cryptocurrencies
