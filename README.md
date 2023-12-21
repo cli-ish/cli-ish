@@ -9,6 +9,7 @@
 - ⚡ CVE-2023-5540  ([More](https://moodle.org/mod/forum/discuss.php?d=451581))
 - *fresh* ⚡ CVE-2023-6661  ([More](https://moodle.org/mod/forum/discuss.php?d=453758))
 - *fresh* ⚡ CVE-2023-6663  ([More](https://moodle.org/mod/forum/discuss.php?d=453760))
+- *fresh* ⚡ CVE-2024-XXXX  (TBA)
 - WIP!
 
 *Todo for 2023:*
