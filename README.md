@@ -7,8 +7,11 @@
 - ⚡ CVE-2023-28330 ([More](https://moodle.org/mod/forum/discuss.php?d=445062))
 - ⚡ CVE-2023-5539  ([More](https://moodle.org/mod/forum/discuss.php?d=451580))
 - ⚡ CVE-2023-5540  ([More](https://moodle.org/mod/forum/discuss.php?d=451581))
-- *fresh* ⚡ CVE-2023-6661  ([More](https://moodle.org/mod/forum/discuss.php?d=453758))
-- *fresh* ⚡ CVE-2023-6663  ([More](https://moodle.org/mod/forum/discuss.php?d=453760))
+- ⚡ CVE-2023-6661  ([More](https://moodle.org/mod/forum/discuss.php?d=453758))
+- ⚡ CVE-2023-6663  ([More](https://moodle.org/mod/forum/discuss.php?d=453760))
+- *fresh* ⚡ CVE-2024-XXXX  (TBA)
+- *fresh* ⚡ CVE-2024-XXXX  (TBA)
+- *fresh* ⚡ CVE-2024-XXXX  (TBA)
 - *fresh* ⚡ CVE-2024-XXXX  (TBA)
 - WIP!
 
@@ -20,3 +23,7 @@
 *Last song played on Deezer:*
 
 [![Deezer Now Playing](https://incredible.software/test/badge/07371d90-f3ce-4352-b50a-93b55e3102e9)](https://github.com/cli-ish/deezer-badge)
+
+*Stalk me at*
+
+[![CTFTime](./pix/ctftime.svg)](https://ctftime.org/user/110513)&nbsp;&nbsp;&nbsp;&nbsp;[![Intigriti](./pix/intigriti.svg)](https://app.intigriti.com/researcher/profile/cliish)&nbsp;&nbsp;&nbsp;&nbsp;[![Bugcrowd](./pix/bugcrowd.svg)](https://bugcrowd.com/cli-ish)
