@@ -9,10 +9,10 @@
 - ⚡ CVE-2023-5540  ([More](https://moodle.org/mod/forum/discuss.php?d=451581))
 - ⚡ CVE-2023-6661  ([More](https://moodle.org/mod/forum/discuss.php?d=453758))
 - ⚡ CVE-2023-6663  ([More](https://moodle.org/mod/forum/discuss.php?d=453760))
-- *fresh* ⚡ CVE-2024-XXXX  (TBA)
-- *fresh* ⚡ CVE-2024-XXXX  (TBA)
-- *fresh* ⚡ CVE-2024-XXXX  (TBA)
-- *fresh* ⚡ CVE-2024-XXXX  (TBA)
+- *fresh* ⚡ CVE-2024-34002  ([More](https://moodle.org/mod/forum/discuss.php?d=458390#p1840916))
+- *fresh* ⚡ CVE-2024-34003  ([More](https://moodle.org/mod/forum/discuss.php?d=458391#p1840917))
+- *fresh* ⚡ CVE-2024-34004  ([More](https://moodle.org/mod/forum/discuss.php?d=458393#p1840919))
+- *fresh* ⚡ CVE-2024-34005  ([More](https://moodle.org/mod/forum/discuss.php?d=458394#p1840921))
 - WIP!
 
 *Todo for 2023:*
