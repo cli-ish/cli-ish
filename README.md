@@ -6,13 +6,15 @@
 
 | 2023 | 2024 | 2025 |
 |------|------|------|
-| [CVE-2023-28329](https://moodle.org/mod/forum/discuss.php?d=445061)     | [CVE-2024-34002](https://moodle.org/mod/forum/discuss.php?d=458390)     | *fresh* ⚡ [CVE-2025-3635](https://moodle.org/mod/forum/discuss.php?d=467597)     |
-| [CVE-2023-28330](https://moodle.org/mod/forum/discuss.php?d=445062)     | [CVE-2024-34003](https://moodle.org/mod/forum/discuss.php?d=458391)     | *fresh* ⚡ [CVE-2025-3636](https://moodle.org/mod/forum/discuss.php?d=467598)     |
-| [CVE-2023-5539](https://moodle.org/mod/forum/discuss.php?d=451580)      | [CVE-2024-34004](https://moodle.org/mod/forum/discuss.php?d=458393)     | *fresh* ⚡ [CVE-2025-3638](https://moodle.org/mod/forum/discuss.php?d=467600)     |
-| [CVE-2023-6661](https://moodle.org/mod/forum/discuss.php?d=453758)      | [CVE-2024-34005](https://moodle.org/mod/forum/discuss.php?d=458394)     | *fresh* ⚡ [CVE-2025-3641](https://moodle.org/mod/forum/discuss.php?d=467602)     |
-| [CVE-2023-6663](https://moodle.org/mod/forum/discuss.php?d=453760)      | [CVE-2024-55645](https://moodle.org/mod/forum/discuss.php?d=464556)     | *fresh* ⚡ [CVE-2025-3642](https://moodle.org/mod/forum/discuss.php?d=467603)     |
+| [CVE-2023-28329](https://moodle.org/mod/forum/discuss.php?d=445061)     | [CVE-2024-34002](https://moodle.org/mod/forum/discuss.php?d=458390)     | [CVE-2025-3635](https://moodle.org/mod/forum/discuss.php?d=467597)                |
+| [CVE-2023-28330](https://moodle.org/mod/forum/discuss.php?d=445062)     | [CVE-2024-34003](https://moodle.org/mod/forum/discuss.php?d=458391)     | [CVE-2025-3636](https://moodle.org/mod/forum/discuss.php?d=467598)                |
+| [CVE-2023-5539](https://moodle.org/mod/forum/discuss.php?d=451580)      | [CVE-2024-34004](https://moodle.org/mod/forum/discuss.php?d=458393)     | [CVE-2025-3638](https://moodle.org/mod/forum/discuss.php?d=467600)                |
+| [CVE-2023-6661](https://moodle.org/mod/forum/discuss.php?d=453758)      | [CVE-2024-34005](https://moodle.org/mod/forum/discuss.php?d=458394)     | [CVE-2025-3641](https://moodle.org/mod/forum/discuss.php?d=467602)                |
+| [CVE-2023-6663](https://moodle.org/mod/forum/discuss.php?d=453760)      | [CVE-2024-55645](https://moodle.org/mod/forum/discuss.php?d=464556)     | [CVE-2025-3642](https://moodle.org/mod/forum/discuss.php?d=467603)                |
+|                                                                         |                                                                         | *fresh* ⚡ [CVE-2025-49515](https://moodle.org/mod/forum/discuss.php?d=468504)    |
+|                                                                         |                                                                         | *fresh* ⚡ [CVE-2025-49516](https://moodle.org/mod/forum/discuss.php?d=468505)    |
+|                                                                         |                                                                         | *fresh* ⚡ [CVE-2025-49517](https://moodle.org/mod/forum/discuss.php?d=468506)    |
 |                                                                         |                                                                         | WIP!                                                                              |
-
 
 *fresh* ⚡
 
